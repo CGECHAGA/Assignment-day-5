@@ -1,5 +1,6 @@
 Assignment day 5
-How can understanding your audience’s expertise level (tech experts vs. regularfolks) shape the way you present technical information?
+
+1.How can understanding your audience’s expertise level (tech experts vs. regularfolks) shape the way you present technical information?
 
 2. What are some strategies to tailor your content to dierent audience 
 
