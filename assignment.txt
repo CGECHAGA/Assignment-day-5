@@ -1,0 +1,73 @@
+1.how understanding audience shapes the way one presents technical information
+tailor ones language:this helps one determine the appropriate terms to use
+defining terms:clearly define terms or provide context 
+organizing information logically in a way that makes sense to the audience
+engage the audience:by asking questions
+
+2.strategies to tailor ones content to different audience types
+break down complex into simple steps
+understanding your audience: one needs to know who they are talking to
+customising content:once you know who your talking to, tailor your content to resonate with them
+use the right tone and language
+engage through visuals 
+adapt to feedback
+
+3.how one can gauge the exisiting knowledge of the audience to avoid overwhelming them
+ask them directly:this can be done using quistionnaires
+pre-test and survey:employ google forms
+observing the audience
+using inclusive language:choose words appropriately
+explain terms:mostly technical ones
+
+4.techniques to use to ensure content is accessible to people with limited technical knowledge
+use plain text:avoid technical acronyms and complext sentence structures
+use headlings and sub-heading:organize your work with headings and sub-headings
+use descriptive images to help convey the message
+seek feedback:ask for questions
+
+5.importance of using plain language 
+helps the audience understand what is being discussed
+helps build trust and credibility
+helps improves communication
+
+6.how simplifying terms improves comprehension
+it enhances focus as the audience is able to understand
+facitilitates critical thinking :helps people analyze what is been said
+benefits diverse audience:helps audience understand
+helps in answering and crasping the content
+
+7.how using examples and visuals helps in explaining complex concepts clearly
+helps in better retention of what was been discussed
+engages the audience:helps people learn easily
+it simplfies the content:it helps to break down complex information
+enhances engagement:visuas grap peoples attention
+promotes comprehension:helps audience understand more
+
+8.visuals that are most effective for different kinds of technical information
+flow charts:they show steps in a process 
+drawings:simplify an item
+photographs:show what something looks like realistically
+gantt charts
+
+9.how heading and sub-heading improve readability 
+they help readers understand the flow of information and how they relate to each other
+they break up the text making it visually appealing
+help know want is important to read especially in large files
+
+10.best practices of creating effective heading and sub-heading
+keeping the short and clear :use clear language
+logical order :so as to not confuse the audience
+make it readable and engaging: this will capture the attention of the audience
+consistency :use the same fonts and spacing
+
+11.what to be included in introduction of Readme
+name of the project
+introduction to the project
+installation instructions
+usage examples
+contribution guidelines
+
+12.how succinity helps convey the purpose and key features of a product
+using friendly user interface
+show the product in action
+state the problem the product is solving
